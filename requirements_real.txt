@@ -1,0 +1,9 @@
+torch
+openai-whisper
+jiwer
+datasets
+soundfile
+scipy
+numpy
+pandas
+matplotlib

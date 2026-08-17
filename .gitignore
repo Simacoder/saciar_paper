@@ -1,0 +1,4 @@
+﻿*.safetensors
+whisper_zulu_local/
+audio_cache/
+__pycache__/

@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+librosa
+soundfile
+scipy
+numpy
+pandas
+matplotlib
